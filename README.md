@@ -1,5 +1,5 @@
 # Anime Blog-Website
-Tech Support provider responsive website 
+Responsive Blog website Design
 
 ## Instruction!
 
